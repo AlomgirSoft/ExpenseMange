@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ExpenseMange</string>
+    <string name="notes">Notes</string>
+    <string name="summary">Summary</string>
+    <string name="calendar">Calendar</string>
+    <string name="monthly">monthly</string>
+    <string name="daily">Daily</string>
 </resources>
