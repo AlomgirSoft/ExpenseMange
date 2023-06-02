@@ -13,9 +13,9 @@
 
     <item android:title="account"
         android:icon="@drawable/account"
-        android:id="account"/>
+        android:id="@+id/account"/>
 
     <item android:title="more"
         android:icon="@drawable/more"
-        android:id="more"/>
+        android:id="@+id/more"/>
 </menu>
